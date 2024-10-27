@@ -10,7 +10,7 @@ import pandas as pd
 import os
 
 ruta_carpeta = r"data"
-ruta_logo =r"data\logo.png" 
+ruta_logo =r"data/logo.png" 
 st.title("Visualización de Métricas de NGS")
 
 def cargar_archivos_csv(ruta_carpeta):
