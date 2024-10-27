@@ -1,0 +1,22 @@
+	195648	197256	197357
+Raw Reads (All reads)	22273358	21440607	20915344
+Paired Reads	22273358	21440607	20915344
+Mapped Reads	22257445	21426394	20898959
+Fraction of Mapped Reads	99.93%	99.93%	99.92%
+Mapped Data(Mb)	3306.74	3160.64	3046.04
+Fraction of Mapped Data(Mb)	99.93%	99.93%	99.92%
+Singletons	10059	8910	10600
+Fraction of PCR duplicate reads	0.00%	0.00%	0.00%
+Map quality cutoff value	30	30	30
+MapQuality above cutoff reads	21595343	20691619	20139198
+Fraction of MapQ reads in all reads	96.96%	96.51%	96.29%
+Target Reads	20141695	19506680	19157309
+Fraction of Target Reads in all reads	90.43%	90.98%	91.59%
+Average depth	56.51	54.78	53.67
+Coverage (>0x)	91.36%	91.48%	91.46%
+Coverage (>=10x)	90.72%	90.78%	90.69%
+Coverage (>=20x)	89.84%	89.55%	89.15%
+Coverage (>=50x)	59.97%	57.89%	54.76%
+Coverage (>=100x)	7.43%	5.88%	6.24%
+Coverage (>=200x)	0.08%	0.09%	0.09%
+Coverage (>=500x)	0.01%	0.02%	0.01%

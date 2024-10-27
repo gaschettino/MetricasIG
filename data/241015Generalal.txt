@@ -1,0 +1,22 @@
+	202929	SUFFERNMILO01
+Raw Reads (All reads)	35150821	23512475
+Paired Reads	35150821	23512475
+Mapped Reads	35119194	23492773
+Fraction of Mapped Reads	99.91%	99.92%
+Mapped Data(Mb)	5280.53	3527.45
+Fraction of Mapped Data(Mb)	99.91%	99.92%
+Singletons	17045	13316
+Fraction of PCR duplicate reads	0.00%	0.00%
+Map quality cutoff value	30	30
+MapQuality above cutoff reads	33971789	22777802
+Fraction of MapQ reads in all reads	96.65%	96.88%
+Target Reads	30620505	20620201
+Fraction of Target Reads in all reads	87.11%	87.70%
+Average depth	91.75	61.46
+Coverage (>0x)	99.92%	99.92%
+Coverage (>=10x)	99.89%	99.85%
+Coverage (>=20x)	99.83%	99.47%
+Coverage (>=50x)	94.97%	67.82%
+Coverage (>=100x)	34.07%	5.06%
+Coverage (>=200x)	0.66%	0.15%
+Coverage (>=500x)	0.08%	0.03%
